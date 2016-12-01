@@ -1,0 +1,26 @@
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+/target
+/classes
+pom.xml
+*.class
+/.lein-*
+/.env
+.nrepl-port
+*.iml
+
+# Application specific files
+venv
+node_modules
+bower_components
+.sass-cache
