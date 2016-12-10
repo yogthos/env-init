@@ -79,6 +79,9 @@ brew install caskroom/cask/brew-cask
 echo '*** install node/npm ***'
 brew install node
 
+echo '*** install lumo ***'
+brew install lumo
+
 echo '*** install tree ***'
 brew install tree
 
