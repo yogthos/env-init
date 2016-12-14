@@ -115,11 +115,14 @@ brew cask install dropbox
 echo '*** install transmission ***'
 brew cask install transmission
 
-echo '*** iterm2 ***'
+echo '*** install iterm2 ***'
 brew cask install iterm2
 
 echo '*** install midnight commander ***'
 brew install mc
+
+echo '*** install htop ***'
+brew install htop
 
 echo '*** install slack ***'
 brew cask install slack
