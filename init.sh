@@ -100,6 +100,9 @@ brew install fish
 echo '*** install httpie ***'
 brew install httpie
 
+echo '*** install rlwrap ***'
+brew install rlwrap
+
 echo '*** change default cask install location to ~/Applications ***'
 export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
