@@ -115,11 +115,20 @@ brew cask install google-drive
 echo '*** install dropbox ***'
 brew cask install dropbox
 
+echo '*** install Java ***'
+brew cask install java
+
+echo '*** install IntelliJ ***'
+brew cask install intellij-idea
+
 echo '*** install transmission ***'
 brew cask install transmission
 
 echo '*** install iterm2 ***'
 brew cask install iterm2
+
+echo '*** install Maven ***'
+brew install maven
 
 echo '*** install midnight commander ***'
 brew install mc
