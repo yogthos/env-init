@@ -88,6 +88,9 @@ brew install tree
 echo '*** install wget ***'
 brew install wget
 
+echo '*** install ffmpeg ***'
+brew install ffmpeg
+
 echo '*** install nodemon ***'
 npm install -g nodemon
 
