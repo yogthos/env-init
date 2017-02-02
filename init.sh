@@ -63,7 +63,8 @@ fi
 echo '*** gaining ownership of /usr/local/ ***'
 sudo chmod a+w /usr/local/
 
-
+## disable gatekeeper 
+# sudo spctl --master-disable
 
 ##############################
 ### Software Installations ###
