@@ -128,6 +128,9 @@ brew cask install intellij-idea
 echo '*** install transmission ***'
 brew cask install transmission
 
+echo '*** install YAC Comic Reader ***'
+brew cask install yacreader
+
 echo '*** install iterm2 ***'
 brew cask install iterm2
 
