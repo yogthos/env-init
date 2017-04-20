@@ -107,6 +107,9 @@ brew install httpie
 echo '*** install rlwrap ***'
 brew install rlwrap
 
+echo '*** install youtube-dl ***'
+brew install youtube-dl
+
 echo '*** change default cask install location to ~/Applications ***'
 export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
