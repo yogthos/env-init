@@ -89,6 +89,9 @@ brew install tree
 echo '*** install wget ***'
 brew install wget
 
+echo '*** install icdiff ***'
+brew update && brew install icdiff
+
 echo '*** install ffmpeg ***'
 brew install ffmpeg
 
