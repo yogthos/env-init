@@ -90,7 +90,7 @@ echo '*** install wget ***'
 brew install wget
 
 echo '*** install icdiff ***'
-brew update && brew install icdiff
+brew install icdiff
 
 echo '*** install ffmpeg ***'
 brew install ffmpeg
