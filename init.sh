@@ -93,7 +93,7 @@ echo '*** install icdiff ***'
 brew install icdiff
 
 echo '*** install ffmpeg ***'
-brew install ffmpeg
+brew install ffmpeg --with-fdk-aac
 
 echo '*** install nodemon ***'
 npm install -g nodemon
