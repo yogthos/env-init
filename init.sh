@@ -89,6 +89,9 @@ brew install tree
 echo '*** install wget ***'
 brew install wget
 
+echo '*** install osquery ***'
+brew install osquery
+
 echo '*** install icdiff ***'
 brew install icdiff
 
