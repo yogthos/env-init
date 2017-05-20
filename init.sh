@@ -192,6 +192,10 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch 
 ecbo '*** install Areal screensaver ***'
 brew cask install aerial
 
+## docker
+#echo '*** install ctop ***'
+# brew install ctop
+
 #########################
 ### Computer Settings ###
 #########################
