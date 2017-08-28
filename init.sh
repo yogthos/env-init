@@ -74,6 +74,12 @@ echo '*** install homebrew ***'
 ruby -e "$(curl -#fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 echo 'export PATH="/usr/local/bin:$PATH"' >> ~/.bash_profile
 
+echo '*** install coreutils ***'
+brew install coreutils
+
+echo '*** install m-cli ***'
+brew install m-cli
+
 echo '*** install brew cask ***'
 brew install caskroom/cask/brew-cask
 
