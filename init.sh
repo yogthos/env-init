@@ -125,6 +125,9 @@ brew install youtube-dl
 echo '*** change default cask install location to ~/Applications ***'
 export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
+echo '*** install kap screen capture app ***'
+brew cask install kap
+
 echo '*** install google chrome ***'
 brew cask install google-chrome
 
