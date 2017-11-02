@@ -185,6 +185,12 @@ brew cask install scroll-reverser
 echo '*** install vlc ***'
 brew cask install vlc
 
+echo '*** install firefox ***'
+brew cask install firefox
+
+ecbo '*** install Areal screensaver ***'
+brew cask install aerial
+
 # echo '*** install dropbox ***'
 # brew cask install dropbox
 
@@ -200,9 +206,6 @@ brew cask cleanup
 
 echo '*** install quick-look plugins ***'
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook
-
-ecbo '*** install Areal screensaver ***'
-brew cask install aerial
 
 ## docker
 #echo '*** install ctop ***'
