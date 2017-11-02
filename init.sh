@@ -158,6 +158,9 @@ brew cask install iterm2
 echo '*** install Maven ***'
 brew install maven
 
+echo '*** install Leiningen ***'
+brew install leiningen
+
 echo '*** install midnight commander ***'
 brew install mc
 
