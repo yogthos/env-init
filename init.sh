@@ -204,6 +204,9 @@ echo '*** install sublime text 3 ***'
 # brew tap caskroom/versions
 # brew cask install sublime-text3
 
+echo '*** install OpenArena ***'
+brew cask install openarena
+
 echo '*** cleaning up cask installs ***'
 brew cask cleanup
 
