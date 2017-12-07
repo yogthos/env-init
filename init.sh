@@ -137,9 +137,6 @@ brew cask install chromium
 echo '*** install google drive ***'
 brew cask install google-drive
 
-echo '*** install dropbox ***'
-brew cask install dropbox
-
 echo '*** install Java ***'
 brew cask install java
 
