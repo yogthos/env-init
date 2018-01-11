@@ -10,3 +10,8 @@ After you've read through `init.sh`, open `terminal.app` by going to `Finder > A
 **tl;dr: run `init.sh` in terminal. follow the prompts.**
 
 Feel free to make a pull request with any new options you want to see, or just open an issue if you think of something you'd like to see, and I'll do my best to make it an option.
+
+
+## other apps
+
+* [space-radar](https://github.com/zz85/space-radar/releases)
