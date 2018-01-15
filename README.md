@@ -15,3 +15,4 @@ Feel free to make a pull request with any new options you want to see, or just o
 ## other apps
 
 * [space-radar](https://github.com/zz85/space-radar/releases)
+* [nord-ui](https://github.com/arcticicestudio/nord) theme
