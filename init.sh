@@ -66,6 +66,10 @@ sudo chmod a+w /usr/local/
 ## disable gatekeeper 
 # sudo spctl --master-disable
 
+## disable local time machine backups
+echo '*** disabling local time machine backups ***'
+sudo tmutil disablelocal
+
 ##############################
 ### Software Installations ###
 ##############################
