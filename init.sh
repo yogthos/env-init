@@ -144,6 +144,9 @@ brew cask install darktable
 echo '*** install google drive ***'
 brew cask install google-drive
 
+echo '*** install shotcut video editor ***'
+brew cask install shotcut
+
 echo '*** install Java ***'
 brew cask install java
 
