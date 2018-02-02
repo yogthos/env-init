@@ -419,6 +419,8 @@ echo '*** set git user info and credentials ***'
 git config --global user.name $user_name
 git config --global user.email $user_email
 git config --global credential.helper osxkeychain
+git config --global push.default current
+git config --global pull.default current
 
 # update PATH
 echo '*** update path ***'
