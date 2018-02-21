@@ -87,6 +87,9 @@ brew install m-cli
 echo '*** install brew cask ***'
 brew install caskroom/cask/brew-cask
 
+echo '*** install thefuck ***'
+brew install thefuck
+
 echo '*** install node/npm ***'
 brew install node
 
