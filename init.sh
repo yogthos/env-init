@@ -84,6 +84,9 @@ brew install coreutils
 echo '*** install m-cli ***'
 brew install m-cli
 
+echo '*** install bat ***'
+brew install bat
+
 echo '*** install brew cask ***'
 brew install caskroom/cask/brew-cask
 
