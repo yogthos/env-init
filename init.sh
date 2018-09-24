@@ -114,6 +114,9 @@ brew install icdiff
 echo '*** install ffmpeg ***'
 brew install ffmpeg --with-fdk-aac
 
+echo '*** install gifsicle ***'
+brew install gifsicle
+
 echo '*** install nodemon ***'
 npm install -g nodemon
 
