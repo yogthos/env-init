@@ -150,6 +150,9 @@ brew cask install chromium
 echo '*** install darktable ***'
 brew cask install darktable
 
+echo '*** install digikam ***'
+brew cask install digikam
+
 echo '*** install google drive ***'
 brew cask install google-drive
 
