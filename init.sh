@@ -162,6 +162,9 @@ brew cask install shotcut
 echo '*** install Java ***'
 brew cask install java
 
+echo '*** install OnionShare ***'
+brew caske install onionshare
+
 echo '*** install IntelliJ ***'
 brew cask install intellij-idea
 
