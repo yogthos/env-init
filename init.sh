@@ -163,7 +163,7 @@ echo '*** install Java ***'
 brew cask install java
 
 echo '*** install OnionShare ***'
-brew caske install onionshare
+brew cask install onionshare
 
 echo '*** install IntelliJ ***'
 brew cask install intellij-idea
