@@ -135,6 +135,9 @@ brew install rlwrap
 echo '*** install youtube-dl ***'
 brew install youtube-dl
 
+echo '*** install openconnect ***'
+brew install openconnect
+
 echo '*** change default cask install location to ~/Applications ***'
 export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
