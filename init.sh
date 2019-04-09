@@ -132,6 +132,9 @@ brew install fish
 echo '*** install fisher ***'
 curl https://git.io/fisher --create-dirs -sLo ~/.config/fish/functions/fisher.fish
 
+echo '*** install kubectl completions for fish ***'
+fisher add evanlucas/fish-kubectl-completions
+
 echo '*** install httpie ***'
 brew install httpie
 
