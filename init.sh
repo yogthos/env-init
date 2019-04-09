@@ -99,6 +99,9 @@ brew install node
 echo '*** install lumo ***'
 brew install lumo
 
+echo '*** install clj-kondo ***'
+brew install borkdude/brew/clj-kondo
+
 echo '*** install tree ***'
 brew install tree
 
