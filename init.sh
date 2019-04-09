@@ -129,6 +129,9 @@ brew install git
 echo '*** install fish ***'
 brew install fish
 
+echo '*** install fisher ***'
+curl https://git.io/fisher --create-dirs -sLo ~/.config/fish/functions/fisher.fish
+
 echo '*** install httpie ***'
 brew install httpie
 
