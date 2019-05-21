@@ -180,6 +180,9 @@ brew cask install onionshare
 echo '*** install IntelliJ ***'
 brew cask install intellij-idea
 
+echo '*** install VSCodium ***'
+brew cask install vscodium
+
 echo '*** install transmission ***'
 brew cask install transmission
 
