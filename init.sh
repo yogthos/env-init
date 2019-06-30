@@ -254,6 +254,10 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch 
 #echo '*** install ctop ***'
 # brew install ctop
 
+echo '*** install lazydocker ***'
+brew tap jesseduffield/lazydocker
+brew install lazydocker
+
 #########################
 ### Computer Settings ###
 #########################
