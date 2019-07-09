@@ -159,6 +159,9 @@ brew cask install google-chrome
 echo '*** install chromium ***'
 brew cask install chromium
 
+echo '*** install notable ***'
+brew cask install notable
+
 echo '*** install darktable ***'
 brew cask install darktable
 
