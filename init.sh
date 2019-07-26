@@ -87,6 +87,9 @@ brew install m-cli
 echo '*** install bat ***'
 brew install bat
 
+echo '*** install imagemagick ***'
+brew install imagemagick
+
 echo '*** install brew cask ***'
 brew install caskroom/cask/brew-cask
 
