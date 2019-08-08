@@ -17,6 +17,9 @@ read user_name
 echo -n 'What is your email address? (Again, just for git)  '
 read user_email
 
+echo -n 'allow running unsigned executables'
+sudo spctl --master-disable
+
 #########################
 ### Install XCode CLI ###
 #########################
