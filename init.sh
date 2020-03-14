@@ -184,7 +184,7 @@ echo '*** install Java ***'
 brew cask install java
 
 echo '*** install GraalVM ***'
-brew cask install graalvm/tap/graalvm-ce
+brew cask install graalvm/tap/graalvm-ce-java11
 
 echo '*** install Clojure ***'
 brew install clojure/tools/clojure
