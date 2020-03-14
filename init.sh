@@ -183,6 +183,15 @@ brew cask install shotcut
 echo '*** install Java ***'
 brew cask install java
 
+echo '*** install GraalVM ***'
+brew cask install graalvm/tap/graalvm-ce
+
+echo '*** install Clojure ***'
+brew install clojure/tools/clojure
+
+echo '*** install babashka ***'
+brew install borkdude/brew/babashka
+
 echo '*** install OnionShare ***'
 brew cask install onionshare
 
